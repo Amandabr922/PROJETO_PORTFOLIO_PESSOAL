@@ -85,7 +85,7 @@ input, textarea {
     border: 1px solid #b97ff3;
     border-radius: 4px;
 }
-input[type="submit"]{
+input[type="submit"]:hover {
     background-color: #7a3db0;
 }
 
@@ -95,4 +95,5 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+
 }
